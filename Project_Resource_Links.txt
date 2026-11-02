@@ -1,0 +1,9 @@
+Project Code: CDACL006
+Project Title: Market Analysis
+Team ID: PTID-CDA-OCT-26-11120
+
+Project Deliverables & Cloud Resources:
+- Google Drive Shared Folder (Dashboard .pbix & Video Presentation .mp4):
+  https://drive.google.com/drive/folders/1zJLPcsSb02PeJ937zel1j5N_smRG_ziM?usp=sharing
+
+Note: Access is set to 'Anyone with the link can view'.
