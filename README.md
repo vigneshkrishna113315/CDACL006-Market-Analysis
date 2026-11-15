@@ -7,10 +7,9 @@
 ---
 
 ## 📌 Deliverables & Media Links
-Due to repository size constraints, the Power BI dashboard model and the recorded video walkthrough are hosted on Google Drive:
-- **[Shared Google Drive Folder (PBIX Dashboard & Video Presentation)](https://drive.google.com/drive/folders/1zJLPcsSb02PeJ937zel1j5N_smRG_ziM?usp=sharing)**
+Due to repository size constraints, the Power BI dashboard model is hosted on Google Drive:
+- **[Shared Google Drive Folder (PBIX Dashboard)](https://drive.google.com/drive/folders/1zJLPcsSb02PeJ937zel1j5N_smRG_ziM?usp=sharing)**
   - `CDACL006_Market_Analysis_Dashboard.pbix`
-  - `CDACL006_Market_Analysis_Video_Presentation.mp4`
 
 ---
 
